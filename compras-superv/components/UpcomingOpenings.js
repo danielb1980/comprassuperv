@@ -8,7 +8,7 @@ import DataTable from './DataTable';
 const UpcomingOpenings = () => {
   return (
     <SafeAreaView style={{ flex: 1 }}>
-      <DataTable url="http://192.168.200.13:5000/data" />
+      <DataTable url="http://149.50.138.61:5000/data" />
     </SafeAreaView>
   );
 };
